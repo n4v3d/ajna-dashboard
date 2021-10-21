@@ -1,9 +1,5 @@
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+TO DO :
+UI 
+- [ ] Show The coins Result sort by latest indicator changes in all pages .
+- [ ] Increase coin column in ui as possible in all page. 
+- [ ] after minimize menubar  increase coin cloumn and contrariwise.
